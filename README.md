@@ -14,7 +14,7 @@ Is repo mein sab kuch phone se samjhaya gaya hai:
 
 🌐 Live website: https://nm621532-byte.github.io/phone-demo-part3-techbroz/
 
-▶️ YouTube video: link soon
+▶️ YouTube video: https://www.youtube.com/watch?v=cLhpqUGn7TU
 
 Series: GitHub Phone se — Part 2 (basics): https://www.youtube.com/watch?v=MN2vY2tIgfw
 
