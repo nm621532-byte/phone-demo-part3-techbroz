@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: #fff8ee; color: #3b2314; }
+header { background: #c0622b; color: white; text-align: center; padding: 40px 16px; }
+header h1 { font-size: 2.2rem; }
+main { max-width: 600px; margin: 24px auto; padding: 0 16px; display: grid; gap: 16px; }
+.card { background: white; border-radius: 14px; padding: 18px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); }
+.card h2 { color: #c0622b; margin-bottom: 6px; }
+.price { display: inline-block; margin-top: 10px; background: #ffe2c4; padding: 4px 12px; border-radius: 20px; font-weight: bold; }
+footer { text-align: center; padding: 24px; color: #7a5a44; }
